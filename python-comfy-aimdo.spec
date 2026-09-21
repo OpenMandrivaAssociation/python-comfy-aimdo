@@ -1,5 +1,5 @@
 Name:		python-comfy-aimdo
-Version:	0.4.15
+Version:	0.5.5
 Release:	1
 Summary:	AI Model Dynamic Offloader used by ComfyUI
 License:	GPL-3.0
